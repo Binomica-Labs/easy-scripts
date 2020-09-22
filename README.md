@@ -1,5 +1,5 @@
 # easy-scripts
-**Quick and dirty scripts for simple biology**
+**Quick and dirty scripts for amateur biology**
 
 Collection of scripts aimed at introductory user-side bioinformatics for the layperson.
 The goals of the script collection is as follows:
